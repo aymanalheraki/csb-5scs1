@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://aymanalheraki.github.io/csb-5scs1/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://aymanalheraki.github.io/csb-5scs1/static/js/main.51205df0.chunk.js",
+    "main.js.map": "https://aymanalheraki.github.io/csb-5scs1/static/js/main.51205df0.chunk.js.map",
+    "runtime-main.js": "https://aymanalheraki.github.io/csb-5scs1/static/js/runtime-main.2e28c3e8.js",
+    "runtime-main.js.map": "https://aymanalheraki.github.io/csb-5scs1/static/js/runtime-main.2e28c3e8.js.map",
+    "static/js/2.03c33ab1.chunk.js": "https://aymanalheraki.github.io/csb-5scs1/static/js/2.03c33ab1.chunk.js",
+    "static/js/2.03c33ab1.chunk.js.map": "https://aymanalheraki.github.io/csb-5scs1/static/js/2.03c33ab1.chunk.js.map",
+    "index.html": "https://aymanalheraki.github.io/csb-5scs1/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://aymanalheraki.github.io/csb-5scs1/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.03c33ab1.chunk.js.LICENSE.txt": "https://aymanalheraki.github.io/csb-5scs1/static/js/2.03c33ab1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e28c3e8.js",
+    "static/js/2.03c33ab1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.51205df0.chunk.js"
+  ]
+}
